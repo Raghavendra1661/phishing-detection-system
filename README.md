@@ -48,6 +48,3 @@ Some features I would like to explore as this project develops include:
 - Adding appropriate rate limiting and infrastructure-level DDoS protection.
 - Deploying the application so users can access it online.
 
-## 🎓 What I Learned
-
-Working on PhishGuard AI gives me an opportunity to explore the connection between web development and cybersecurity. It helps
